@@ -99,9 +99,7 @@ to get latest Go 101 news and learn all kinds of Go knowledge.)
    %%  data-topics="const, untyped, type-inference" data-date="2022-07-11"
    __ 3`` const-3.tmd __,
    %%  data-topics="const, string" data-date="2023-07-01"
-   __ 4`` const-4.tmd __,
-   %%  data-topics="const, iota" data-date="2022-07-03"
-   __ 5`` const-iota-1.tmd __
+   __ 4`` const-4.tmd __
 *  operator:
    %%  data-topics="operator, iota" data-date="2022-07-11"
    __ 1`` operator-1.tmd __,
