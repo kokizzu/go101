@@ -336,7 +336,7 @@ Values of the same type share some common properties.
 A type may have many values. One of them is the zero value of the type.
 
 Each type has a zero value, which can be viewed as the default value of the type.
-The predeclared `nil` identifier can used to represent
+The predeclared `nil` identifier can be used to represent
 zero values of slices, maps, functions, channels,
 pointers (including type-unsafe pointers) and interfaces.
 For more information on `nil`, please read __nil in Go__.
