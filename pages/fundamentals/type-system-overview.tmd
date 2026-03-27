@@ -355,7 +355,7 @@ though the former three can be viewed as special cases of the latter one.
 A value can be __typed or untyped__.
 
 All kinds of basic value literals have been introduced in the article
-__basic types and basic value literals__.
+__basic types and value literals__.
 There are two more kinds of literals in Go, composite literals and function literals.
 
 Function literals, as the name implies, are used to represent function values.
