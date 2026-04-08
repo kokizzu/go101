@@ -336,7 +336,7 @@ Values of the same type share some common properties.
 A type may have many values. One of them is the zero value of the type.
 
 Each type has a zero value, which can be viewed as the default value of the type.
-The predeclared `nil` identifier can used to represent
+The predeclared `nil` identifier can be used to represent
 zero values of slices, maps, functions, channels,
 pointers (including type-unsafe pointers) and interfaces.
 For more information on `nil`, please read __nil in Go__.
@@ -355,7 +355,7 @@ though the former three can be viewed as special cases of the latter one.
 A value can be __typed or untyped__.
 
 All kinds of basic value literals have been introduced in the article
-__href="l">basic types and basic value literals__.
+__basic types and value literals__.
 There are two more kinds of literals in Go, composite literals and function literals.
 
 Function literals, as the name implies, are used to represent function values.
